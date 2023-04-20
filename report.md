@@ -41,3 +41,9 @@ Now is the time to try some commands! Using commands like cd, ls, pwd, and mkdir
 I especially like moving around the file directory and exploring what's in where. I also made new directories and removed them. Here's what it looked like: 
 
 ![Image](https://i.imgur.com/gNi3ORf.png)
+
+When looking at the command line, it is easy to be overwhelmed! However, once you understand what every command does, you can see what its output means. Here are different commands and what they do:
+
+   - cd: stands for change directory. You can put a relative or absolute path as an argument, allowing you to navigate to that directory. Also, there are special characters that act as shortcuts. "cd ~" takes you back to your home directory. "cd /" takes you back to your root directory. "cd .." takes you back to the parent directory. As you can see, cd doesn't give an output. That's how you know it worked.
+   - ls: stands for list. This command allows you to list all the files and folders in your working directory. As you can see, when I navigate to different directories, such as the home or root directories, it shows different files. When I go into the perl5 directory, it doesn't show anything. That means that there is nothing in the directory. Also, you can add arguments to ls. For example, I added "-lat". This shows all files sorted by date. I couldn't fit them all in the screen, as there are a total of 1247 files shown.
+   - mkdir and rmdir: stands for make directory and remove directory, respectively. They are pretty self explanatory. You can make a new directory with mkdir and you can remove any directory with rmdir. In my particular example, I navigated to the perl5 directory, created a directory with mkdir, showed it existed with ls, and removed it with rmdir. It didn't show up upon running ls.
