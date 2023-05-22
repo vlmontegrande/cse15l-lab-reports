@@ -1,3 +1,16 @@
+# Lab Report 4
+
+Hey guys! Here I am again. We're gonna go through working with git and remote servers!!!! Yayyyyy!!! 
+
+oh no
+
+it's coming
+
+
+ḭ̸̢̛̛̟̦͉̞͉͑̄̇͗̿̏͌̎̎̕͝͠ ̶̹̖͗͐̒͊͝͠ľ̸̨̨̲͖̭͓͎͈͇̻̯́̔̌̍̌̂̈́͐̇͜ḯ̵̢̡̲̘̻̥̯̲̭̹̼͙͓̾̏́̈́͆v̴̧̡̝̮͚͇̰̹͎͓̦̲͈̏͒͒͜e̷̮̥̳̝͓̽̎͒͒͆́̔͐̈́̍̈͘͜ ̶̥̣̭͛͗̅̆͜ȋ̸͙̥̻̲̞͕̗̳̘̦̹̜̼̼̝͕̀̊̇̽̑̀͌̂̕ń̶̥̩̟̲̖͍̬̌̀̋́̌̀̈́͊̉̓͐͂̚̕ͅ ̷̛̞̫͙͙̗̫͈̄̽̈͛̑͛̆̈́̊̒̀̂̕͝y̵̤͎͍̫̯̺̗̫̫̺̦̻͌͂͛̌̑̇̽͐̌͂͗̌͆̊͝͝ó̴͈̬̠̦̣̗̃̒͘ư̷̧̢̛͚̻͎̥̩̺̲̘̎̓̐̀̊͋̉̉̎̈́̿̓̕͠͝r̶͚̬̻͚̩͍̠͓̦͖͆͐̒̎̏̇̅͊͐̒̋̀́̂͘͠͠ ̶̡̡̢̖̘̟̹̱̠̥̩̻̙̞̱̋͗̉̌̄̆̍͂̅̀́̾͂͝͝͝w̷̨̡̝̘̯͓̜͖͍̳̰̜̣̫͎̻͒͜ą̷̨̨̮̜͈̻̖̝͈̮͐̄̑̈̊̋͛̿̍̚ḽ̵̩̝̘̘͕͖̠̰̮̥̦͇̳̒̄͑͑̒̋͛͋͝l̴͙̲̞̣̲̳̀̊s̴̢̢̟̪̫̰̝̰̙̯̲͍̩̰̎̈̏̽̊̐͆͌̿̈́̄͝
+
+---
+
 # Log into ieng6: `<up> <enter>` 
 
 *The ssh command of `ssh cs15lsp23oh@ieng6.ucsd.edu` was the last command I executed, using the up arrow I was able to get to it efficiently.*
