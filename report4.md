@@ -16,7 +16,7 @@ ḭ̸̢̛̛̟̦͉̞͉͑̄̇͗̿̏͌̎̎̕͝͠ ̶̹̖͗͐̒͊͝͠ľ̸́̔̌̍̌�
 *The ssh command of `ssh cs15lsp23oh@ieng6.ucsd.edu` was the last command I executed, using the up arrow I was able to get to it efficiently.*
 
 
-![image](https://github.com/vlmontegrande/cse15l-lab-reports/blob/main/images/Screenshot%202023-05-21%20223151.png)
+![image](images/Screenshot 2023-05-21 223151.png)
   
 # Clone your fork of the repository from your Github account: `git clone https://github.com/vlmontegrande/lab7.git <enter>`
 
