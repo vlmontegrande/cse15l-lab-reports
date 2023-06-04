@@ -144,6 +144,6 @@ OK (3 tests)
 # Reflection
 
 A topic that I learned from the second half of this class that I didn't know before was bash scripting.
-I never knew what exactly bash was, and that hurt mme when I would do things like ctf's in high school. 
+I never knew what exactly bash was, and that hurt me when I would do things like ctf's in high school. 
 I really appreciated this class going over the basics of stuff like that. Now I can finally understand
 bash scripts that people use to automate certain things.
